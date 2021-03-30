@@ -2,7 +2,7 @@
 
 - 🔭 Resume 이력서: [Resume]() 
 - 🌱 Portfolio 포트폴리오: [Portfolio]()
-- 👯 Tistory 블로그 : [Tistory]()
+- 👯 Velog 블로그 : [Velog](https://velog.io/@charming__kyu)
 - 📫 How to reach me 연락하기: loadkrnis@gmail.com
 - ⚡ Fun fact 취미: 여행
 
