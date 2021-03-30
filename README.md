@@ -26,7 +26,7 @@
 ### 활동 (최근)
 
 - (2019.12 ~ 잠정중단) Youtube Unity를 이용한 설명봇 채널 운영 => [영상보기](https://www.youtube.com/channel/UCZfz6Hl6iE2zQZSH4s97QWQ/videos)
-- (2020.05 ~ 2020.10) 쿠팡 잠실본사 Flex Operation팀 계약직 근무 => [업무보기](#)
+- (2020.05 ~ 2020.10) 쿠팡 잠실본사 Flex Operation팀 계약직 근무 => [업무후기 보기](#)
 
 
 ### 기타 활동
