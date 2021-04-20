@@ -1,8 +1,8 @@
 ### Hi 안녕하세요 👋
 
-- 🔭 Resume 이력서: [Resume]() 
+- 🔭 Resume 이력서: X
 - 🌱 Portfolio 포트폴리오: [Portfolio]()
-- 👯 Velog 블로그 : [Velog](https://velog.io/@charming__kyu)
+- 👯 Velog 블로그 : X
 - 📫 How to reach me 연락하기: loadkrnis@gmail.com
 - ⚡ Fun fact 취미: 여행
 
