@@ -18,8 +18,8 @@ ___
 
 
 ### 활동 (최근)
-
-- (2021.05 ~ - ) 주식회사 믐(MEUM) Node.js 개발자 근무
+- (2021.10 ~ ) 인프런 백엔드 개발자 근무
+- (2021.05 ~ 2021.10 ) 주식회사 믐(MEUM) Node.js 개발자 근무
 - (2020.05 ~ 2020.10) 쿠팡 잠실본사 Flex Operation팀 계약직 근무 
 - (2019.12 ~ 잠정중단) Unity를 이용한 설명봇 Youtube채널 운영 => [채널이동](https://www.youtube.com/channel/UCZfz6Hl6iE2zQZSH4s97QWQ/videos)
 
