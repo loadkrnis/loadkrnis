@@ -4,7 +4,9 @@
 - 📫 How to reach me 연락하기: loadkrnis@gmail.com
 - ⚡ Fun fact 취미: 여행
 
-[![CharmingKyu's github stats](https://github-readme-stats.vercel.app/api?username=loadkrnis)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loadkrnis&show_icons=true&theme=highcontrast">
+</div>
 ___
 ### 학력
 
