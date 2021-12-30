@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loadkrnis&show_icons=true&theme=highcontrast">
 </div>
-___
+
 ### 학력
 
 2019 ~ 2022 부천대학교 컴퓨터소프트웨어과 4.4/4.5 (졸업)
