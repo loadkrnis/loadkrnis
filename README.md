@@ -16,6 +16,6 @@
 - (2021.10 ~ 2022.07) 인프랩(inflab) 백엔드 개발자 근무
 - (2021.05 ~ 2021.10) 주식회사 믐(MEUM) 백엔드 개발자 근무
 - (2020.05 ~ 2020.10) 쿠팡 Flex Operation팀 근무 
-- (2019.12 ~ 잠정중단) Unity를 이용한 설명봇 Youtube채널 운영 => [채널이동](https://www.youtube.com/channel/UCZfz6Hl6iE2zQZSH4s97QWQ/videos)
+- (2019.12 ~ 잠정중단) Unity를 이용한 물리실험 설명봇 Youtube 채널 운영 => [채널이동](https://www.youtube.com/channel/UCZfz6Hl6iE2zQZSH4s97QWQ/videos)
 
 
